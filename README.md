@@ -1,4 +1,4 @@
-# Mail-Alarm
+# MailA larm
 
 - An Android notification app for important emails.
 - Uses Google OAuth (via Firebase) for authentication.
