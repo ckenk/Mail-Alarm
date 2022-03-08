@@ -1,0 +1,1 @@
+gmail_alarm\android\app\src\main\res
