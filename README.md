@@ -1,7 +1,7 @@
 # Mail Alarm
 
 - An Android notification app for important emails.
-- Uses Google OAuth (via Firebase) for authentication.
+- Uses Google OAuth 2.0 and OpenID (via Firebase) for authentication.
 - Uses Google Identity Toolkit API and Gmail API.
 - Written in Flutter and Dart.
 - App is published in Google Play Store: https://play.google.com/store/apps/details?id=dev.apps.gmail_alarm
